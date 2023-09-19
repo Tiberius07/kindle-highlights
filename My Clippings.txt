@@ -1,0 +1,90 @@
+﻿Startup Playbook (Altman, Sam)
+- Your Highlight on page 2 | location 25-26 | Added on Sunday, 13 August 2023 14:12:52
+
+riskier option is having an idea or project you’re really passionate about
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 2994-3005 | Added on Friday, 18 August 2023 07:16:49
+
+Give customers a voice in key decisions. Use a separate business unit, with a “Chinese wall,” to handle conflicting agendas.   2. For trusting relationships, open standards must remain open.   3. Treat IP [intellectual property] fairly, yours and theirs.   4. Communicate a clear road map and stick to it. Commitments to act or not act must be credible.   5. Reserve the right to enter strategically important markets with notice. Don’t surprise people and don’t play favorites with news.   6. In case of big investments, share risk and bet your own money.   7. Do not promise to not change the platform. Do promise early notice. Have skin in the game, so change bites the platform, not just the partner.   8. It’s okay to offer differential benefits to partners with differentiated assets. Just make sure everyone understands how to qualify.   9. Promote the long-term financial health of partners, especially smaller ones. 10. As the business matures, decisions increasingly favor outward progression from core platform, to complements, to new businesses that cannibalize the platform.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3032-3039 | Added on Friday, 18 August 2023 07:19:45
+
+Governance is necessary because absolutely free markets are prone to failures.     Market failures are generally caused by information asymmetry, externalities, monopoly power, and risk. Good governance helps prevent and mitigate market failures.     The basic tools for platform governance include laws, norms, architecture, and markets. Each must be designed and implemented with care in order to encourage platform participants to engage in positive behaviors, incentivize good interactions, and discourage bad interactions.     Self-governance is also crucial to effective platform management. Well-run platforms govern their own activities following the principles of transparency and participation.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3177-3178 | Added on Saturday, 19 August 2023 09:22:14
+
+Matching quality is critical to delivering value and stimulating the long-term growth and success of the platform. It is achieved through excellence in product or service curation.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3169-3174 | Added on Saturday, 19 August 2023 09:22:40
+
+Also note that the most meaningful metrics are comparative ones, which draw helpful distinctions between groups of users or over periods of time (a useful recommendation from Alistair Croll and Benjamin Yoskovitz, authors of Lean Analytics). A good example of an inherently comparative measure is a ratio or rate, which is calculated by dividing one number by another—for example, the ratio of active users, which is calculated by dividing the number of active users by the number of total users, or the rate of growth in active users, which is calculated by dividing the number of new active users by the number of total active users.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3166-3167 | Added on Saturday, 19 August 2023 09:23:02
+
+Note that user commitment and active usage of the platform are the vital metrics of platform adoption, not sign-ups.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3185-3187 | Added on Saturday, 19 August 2023 09:23:55
+
+One way to measure the efficiency of the platform in successfully matching producers to consumers is by tracking the sales conversion rate, which can be expressed as the percentage of searches that lead to interactions.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3197-3199 | Added on Saturday, 19 August 2023 09:24:57
+
+The third crucial category of startup metric is trust. Trust refers to the degree to which users of a platform feel comfortable with the level of risk associated with engaging in interactions on the platform. It is achieved through excellent curation of participants in the platform.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3207-3209 | Added on Saturday, 19 August 2023 09:26:37
+
+These three crucial categories of metrics—liquidity, matching quality, and trust—combine to provide the managers of startup platforms with an accurate picture of the platform’s rate of interaction success and the key factors that contribute to it.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3261-3264 | Added on Saturday, 19 August 2023 09:32:21
+
+On the producer side, the platform should monitor figures that include the frequency of producer participation, listings created, and outcomes achieved. The platform should also monitor interaction failure—the percentage of cases in which interactions, such as sales, are initiated but fall through for some reason.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3274-3275 | Added on Saturday, 19 August 2023 09:33:30
+
+On the consumer side, the growing platform should monitor the frequency of consumption, searches, and rate of conversion to sale (the percentage of click-throughs that result in completed interactions).
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3352-3356 | Added on Saturday, 19 August 2023 11:34:04
+
+Instead, Ries suggests, “you should make sure your metrics meet the ‘3 A’s test’ where your metrics are actionable, accessible, and auditable.” They must be actionable in that they provide clear guidance for strategic and managerial decisions, and in being clearly related to the success of the business. They must be accessible in that they are comprehensible to the people who gather and use the information. And they must be auditable in the sense that they are real and meaningful—based on clean, accurate data, precisely defined, and reflecting the reality of the business as perceived by users.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 3362-3373 | Added on Saturday, 19 August 2023 11:35:02
+
+TAKEAWAYS FROM CHAPTER NINE     Since the value of a platform is derived primarily from network effects, platform metrics should ultimately seek to measure the rate of interaction success and the factors that contribute to it. Interaction success attracts active users and thereby enhances the development of positive network effects.     During the startup phase, platform companies should concentrate on metrics that track the strength of characteristics that enable core interactions on the platform, including liquidity, matching, and trust. These characteristics can be measured in a variety of specific ways, depending on the nature of the platform.     During the growth phase, platform companies should focus on metrics that are likely to impact growth and enhanced value creation, such as the relative size of various portions of the user base, the lifetime value of producers and consumers, and the sales conversion rate.     During the maturity phase, platform companies should focus on metrics that drive innovation by identifying new functionalities that can create value for users, as well as metrics that can identify strategic threats from competitors to which the platform needs to respond.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 4295-4306 | Added on Tuesday, 22 August 2023 08:59:00
+
+Opponents of regulation point to phenomena like regulatory capture to argue that government intervention in business is usually ineffectual. But history suggests that some level of societal regulation of business is healthy and beneficial both to the economy and to society as a whole.     There are a number of regulatory issues that are unique to platform businesses or that require fresh thinking in the light of the economic changes that platforms are causing. These include access to platforms, compatibility, fair pricing, data privacy and security, national control of information assets, tax policy, and labor regulation.     The flood of new data made available by today’s information age technologies suggests the possibility of new regulatory approaches based on after-the-fact transparency and accountability rather than restrictions on market access. But such new approaches will need to be designed thoughtfully and carefully to fully protect the public.     Economic frameworks for industries with network effects suggest that dominance alone is not necessarily cause for government intervention. Rather, failure to manage externalities, abuse of dominance, manipulating populations, and delaying innovation can indicate when intervention in platform markets is necessary and appropriate.
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 4701-4713 | Added on Thursday, 24 August 2023 08:57:05
+
+He lists eight markets with the potential to generate new multi-billion-dollar industries based on smart connections among industrial devices: •    Security: using platform-based networks to protect industrial assets from attacks •    Network: designing, building, and servicing the networks that will link and control industrial tools •    Connected services: developing software and systems to manage the new networks •    Product as a service: transitioning industrial companies from selling machines and tools to selling services facilitated by platform connections •    Payments: implementing new ways to create and capture value from industrial equipment •    Retrofits: equipping the $6.8 trillion worth of existing industrial machinery in the U.S. to participate in the new industrial Internet •    Translation: teaching a wide array of devices and software systems to share data and communicate with one another •    Vertical applications: finding ways to connect industrial tools at various places in the value chain to solve specific problems
+==========
+﻿Parker, Geoffrey G_ van Alstyne, Marshall W_ Choudary, Sangeet P - Platform Revolution_ How Networked Markets Are Transforming the Economy--And How to Make Them Work for You (2016, W. W. Norton & Company) - libgen.li (Sangeet Paul Choudary)
+- Your Highlight at location 4759-4771 | Added on Thursday, 24 August 2023 09:00:02
+
+Industries that are most prone to platform transformation in the near future include those that are information-intensive, those with unscalable gatekeepers, those that are highly fragmented, and those characterized by extreme information asymmetries.     Industries that are less likely to be transformed by platforms in the short run include those with high regulatory control and high failure costs as well as those that are resource-intensive.     It’s possible to foresee some of the specific changes that are likely to impact selected industries in the decades ahead, including education, health care, energy, and finance.     The platform model will continue to shape transformations in the markets for labor and professional services as well as the operations of government.     The burgeoning Internet of things will add a new layer of connectivity and power to the platforms of the future, linking people and devices to one another in new value-creating ways.     The platform revolution will ultimately transform our world in unpredictable ways, calling for society as a whole to develop creative, humane responses to the challenges this change will produce.
+==========
+﻿$100M Offers_ How to Make Offers So Good People Feel Stupid Saying No - Alex Hormozi (Alex Hormozi)
+- Your Highlight at location 1181-1181 | Added on Wednesday, 6 September 2023 20:52:12
+
+Example Problem List: Weight Loss
+==========
+﻿$100M Leads_ How to Get Strangers to Want to Buy Your Stuff - Alex Hormozi (Alex Hormozi)
+- Your Highlight at location 1142-1150 | Added on Wednesday, 13 September 2023 05:35:13
+
+By the way, do you know anybody who is (describe their struggles) looking to (dream outcome) in (time delay)? I’m taking on five case studies for free, because that’s all I can handle. I just want to get some testimonials for my service/product. I help them (dream outcome) without (effort and sacrifice). It works. I even guarantee people get (dream outcome) or I work with them until they do. I just had a girl named XXX work with me (dream outcome) even though she (describe the same struggle your contact has). I also had another guy who (dream outcome) and it was his first time. I’d just like more testimonials to show it works across different scenarios. Does anyone you like come to mind? (Pause if on the phone) …and if they say no…Haha, well…does anyone you hate come to mind? (ha) This helps break any awkwardness.
+==========
